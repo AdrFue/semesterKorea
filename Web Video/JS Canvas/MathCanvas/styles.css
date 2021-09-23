@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+}
+
+.controller {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+canvas {
+  background-color: darkgrey;
+  margin: auto;
+  display: block;
+}
+
+.mb input {
+  width: 800px;
+}

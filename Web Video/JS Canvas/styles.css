@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+}
+
+canvas {
+  background-color: white;
+  border : 1px solid black;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
