@@ -1,0 +1,91 @@
+/* Headpage */
+#headpage {
+  font-size: 75px;
+  justify-content: center;
+}
+
+#img_person {
+  position: absolute;
+  bottom: 0;
+  left: 60%; 
+  width: 40%;
+}
+
+#headpage_head {
+  font-size: 2em;
+  margin-bottom: 50px;
+}
+
+
+/* About */
+
+#img_person_full {
+  position: absolute;
+  bottom: 0;
+  left: 45%; 
+  width: 65%;
+}
+
+/* Projects */
+
+#books {
+  text-align: left;
+}
+
+#books * {
+  height: 250px;
+  margin: -45px 50px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#imgs_projects {
+  position: absolute;
+  bottom: 40%;
+  left: 52%; 
+  width: 40%;
+}
+
+#imgs_projects * {
+  margin: 10px 0px;
+}
+
+
+/* Art */
+
+#fm_body, #sp_body, #hosted_body, #fg_body, #aa_body {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.page_body iframe, #img_aa {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+#img_aa {
+  height: 600px;
+}
+
+
+/* Conlusion */
+
+#imgs_conclusion {
+  position: absolute;
+  bottom: 33%;
+  left: 43%; 
+}
+
+#imgs_conclusion * {
+  width: 200px;
+  margin: 0px 50px;
+}
+
+/* Sources */
+
+#sources_body {
+  font-size: 0.4em;
+  margin-top: 25px;
+}
+
+#sources_body * {
+  margin: 0px;
+}
